@@ -1,1 +1,0 @@
-cmd_drivers/i2c/chips/built-in.o :=  /home/blazingwolf/android/source/platform_prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/i2c/chips/built-in.o drivers/i2c/chips/akm8975.o drivers/i2c/chips/bma250.o drivers/i2c/chips/pn544.o drivers/i2c/chips/cm3629.o drivers/i2c/chips/tpa2051d3.o 
